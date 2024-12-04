@@ -1,5 +1,5 @@
 # Customer-Churn
-Bank Customer Churn: Insights &amp; EDA for modelling
+Bank Customer Churn: Insights &amp; EDA for modelling & Data Prep
 
 # About this project:
 This project is about understanding and predecting the customer churn for a bank by analysing and preparing customer data for modelling. I have read in data using python pandas module followed the several steps like understanding the data and cleaning the data and EDA and featuring enginnering.
